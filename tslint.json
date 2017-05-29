@@ -1,0 +1,9 @@
+{
+    
+    "rules": {
+        "quotemark": [true, "single", "avoid-escape"],
+        "no-eval": true,
+        "semicolon": true,
+        "indent": false
+    }
+}
